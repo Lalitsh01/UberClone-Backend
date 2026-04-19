@@ -52,8 +52,8 @@ A production-style backend for a ride-booking application (similar to Uber / OLA
 - POST /api/wallet/topup — add funds to wallet
 - GET /api/drivers/nearby — find nearby drivers
 
-**UML Class Diagram**
-(UberClone-Backend/UML Class Diagram.png)
-**Flow Diagram**
-(UberClone-Backend/Flow Diagram.png)
+## UML Class Diagram
+![UML Diagram](https://github.com/Lalitsh01/UberClone-Backend/blob/110ad91675b9c1f8d8d6f65774c1b9ffa55b9e00/UML%20Class%20Diagram.png)
+## Flow Diagram
+![Flow Diagram](https://github.com/Lalitsh01/UberClone-Backend/blob/110ad91675b9c1f8d8d6f65774c1b9ffa55b9e00/Flow%20Diagram.png)
 

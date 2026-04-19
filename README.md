@@ -52,15 +52,8 @@ A production-style backend for a ride-booking application (similar to Uber / OLA
 - POST /api/wallet/topup — add funds to wallet
 - GET /api/drivers/nearby — find nearby drivers
 
-**Testing**
-- Unit tests are located under `src/test/java`.
-- Use Maven to run tests: `mvnw.cmd test` (Windows)
+**UML Class Diagram**
+(UberClone-Backend/UML Class Diagram.png)
+**Flow Diagram**
+(UberClone-Backend/Flow Diagram.png)
 
-**Contributing**
-- Open an issue or submit a pull request. Provide tests for new behavior and follow existing code style.
-
-**License**
-- This repository is provided as-is for learning and demonstration purposes. Add a license file if you plan to publish publicly.
-
-**Contact**
-- For questions, add an issue or contact the repository owner.
